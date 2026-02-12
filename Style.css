@@ -1,0 +1,11 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+body{
+    font-family: 'Fjalla';
+    text-align:center;
+    background-color: aquamarine;
+}
+img{
+    width:500px;
+    height:500px;
+}
